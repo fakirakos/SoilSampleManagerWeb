@@ -1,7 +1,8 @@
 {
     "private": true,
     "dependencies": {
-        "@arcgis/core": "^4.23.7"
+        "@arcgis/core": "^4.32.8",
+        "@arcgis/map-components": "^4.32.11"
     },
     "devDependencies": {
         "css-loader": "^6.7.1",

@@ -80,4 +80,4 @@ class MapCoordinatesDTO{
     }
 }
 
-export {FieldModel,MarkerModel,UserModel,MapDTO,MapCoordinatesDTO};
+export {FieldModel,MarkerModel,UserModel,MapDTO,MapCoordinatesDTO,placeHolderAnalysisModel,placeHolderMarkerModel};
